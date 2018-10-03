@@ -4,7 +4,7 @@ updateDriverWithKeyAndValue(driver, key, value){
   return Object.assign({}, driver, { [key]: value });
 }
 
-destructivelyUpdateDriverWithKeyAndValue(){
+destructivelyUpdateDriverWithKeyAndValue(driver, key, value){
   
 }
 deleteFromDriverByKey(){}
