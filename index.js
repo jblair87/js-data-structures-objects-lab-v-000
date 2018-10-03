@@ -1,5 +1,5 @@
 const driver = {};
-updateDriverWithKeyAndValue(){}
+updateDriverWithKeyAndValue(driver, key, value){}
 destructivelyUpdateDriverWithKeyAndValue(){}
 deleteFromDriverByKey(){}
 destructivelyDeleteFromDriverByKey(){}
