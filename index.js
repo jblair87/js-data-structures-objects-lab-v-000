@@ -7,5 +7,10 @@ updateDriverWithKeyAndValue(driver, key, value){
 destructivelyUpdateDriverWithKeyAndValue(driver, key, value){
   
 }
-deleteFromDriverByKey(){}
-destructivelyDeleteFromDriverByKey(){}
+deleteFromDriverByKey(){
+  
+}
+
+destructivelyDeleteFromDriverByKey(){
+  
+}
