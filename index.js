@@ -12,6 +12,6 @@ deleteFromDriverByKey(){
   
 }
 
-destructivelyDeleteFromDriverByKey(){
+destructivelyDeleteFromDriverByKey(driver, key){
   
 }
