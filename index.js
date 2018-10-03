@@ -1,2 +1,3 @@
 updateDriverWithKeyAndValue(){}
 destructivelyUpdateDriverWithKeyAndValue(){}
+deleteFromDriverByKey(){}
